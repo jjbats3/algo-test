@@ -9,7 +9,7 @@ financial_metrics_filters = {
     'liquidity_ratio': 1.5,       # Minimum acceptable liquidity ratio
     # Add more financial metrics and their benchmarks as needed
 }
-
+ kn jk
 # Step 3: Access Financial Data Using Yahoo Finance API
 def get_financial_data(sectors):
     # Initialize an empty dictionary to store financial data
